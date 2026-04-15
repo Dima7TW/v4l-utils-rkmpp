@@ -363,4 +363,4 @@ bits, as otherwise the next step will fail.
     ```
 
 1. Remove the `usr/` from the Kernel tree.
->>>>>>> 7de8c6c (Add patches for the work of the RKMPP)
+
