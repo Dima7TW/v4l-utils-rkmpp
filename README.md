@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# v4l-utils-rkmpp
-This is a repository v4l-utils from http://git.linuxtv.org with patches by JeffyCN.
-=======
 # about this repository
 
 This is a repository v4l-utils from [http://git.linuxtv.org/v4l-utils.git](http://git.linuxtv.org/v4l-utils.git) with patches by JeffyCN [https://github.com/JeffyCN/meta-rockchip](https://github.com/JeffyCN/meta-rockchip).
